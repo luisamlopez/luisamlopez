@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Luisa</h1>
-<h3 align="center">A junior frontend web developer and IoT passionate! Based in Venezuela</h3>
+<h3 align="center">A junior frontend web developer and IoT enthusiast! Based in Venezuela</h3>
 
 - 🌱 I’m currently learning **Redux**
 
