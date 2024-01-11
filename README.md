@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏼, I'm Luisa</h1>
 <h3 align="center">A junior frontend web developer and IoT enthusiast! Based in Venezuela</h3>
 
-- 🌱 I’m currently learning **Redux** and **Python**
 
 - 📄 Know about my experiences [Here's my CV](https://drive.google.com/file/d/19HSk_N0VHPaF6U1sLUzRHV0wytOnF9Kg/view?usp=sharing)
 
