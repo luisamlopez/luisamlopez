@@ -2,7 +2,7 @@
 <h3 align="center">A junior frontend web developer and IoT enthusiast! Based in Venezuela</h3>
 
 
-- 📄 Know about my experiences [Here's my CV](https://drive.google.com/file/d/19HSk_N0VHPaF6U1sLUzRHV0wytOnF9Kg/view?usp=sharing)
+- 📄 Know about my experiences [Here's my CV](https://drive.google.com/file/d/1zaMCTBxvGIYm15EeD-V1FrNM7GC2rCCX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
